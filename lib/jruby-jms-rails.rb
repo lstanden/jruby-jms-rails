@@ -1,0 +1,1 @@
+require 'jruby-jms-rails/version'
